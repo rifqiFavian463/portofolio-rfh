@@ -29,7 +29,10 @@ const skills: string[] = [
   "Next.js",
   "Framer Motion",
   "Mockoon",
+  "Express.js",
+  "MongoDB",
   "Cypress.io",
+  "PostgreSQL",
   "Git",
   "GitHub",
   "Clip Studio Paint",
@@ -125,8 +128,8 @@ function Leftside() {
       <div className="flex flex-col gap-4">
         <span className="text-neutral-300 text-lg font-extrabold">Bio</span>
         <p className="text-neutral-300 text-xs">
-          Hi, Im Rifqi Favian Hibatullah. Im a Front-end Developer and 2D Artist, based in Indonesia. Im an active student currently studying at Muhammadiyah University Prof. dr Hamka, I have morethan
-          one year of experience in front-end development and 2D art.
+          Frontend Developer dengan pengalaman 13 bulan, fresh graduate S1 Teknik Informatika. Berfokus pada pengembangan aplikasi web yang responsif dan scalable, serta siap berkontribusi dalam tim
+          untuk menghadirkan solusi digital yang berdampak.
         </p>
         <div className="flex flex-wrap md:flex-nowrap gap-y-2 justify-between">
           <span className="text-neutral-300 text-xs font-semibold flex items-center gap-1 w-40">

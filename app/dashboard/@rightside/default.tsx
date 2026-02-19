@@ -38,10 +38,10 @@ const workHistory: workHistoryType[] = [
     date: "Feb 2024 - June 2024",
   },
   {
-    title: "Illustrator",
-    companylogo: "/company-logo/okutako.png",
-    company: "Freelance",
-    date: "2020-Present",
+    title: "Web & SEO Developer",
+    companylogo: "/company-logo/digibuddy.webp",
+    company: "Digibuddy.id",
+    date: "June 2025 - Oct 2025",
   },
 ];
 
@@ -75,6 +75,12 @@ const certifcation: certificationType[] = [
 
     company: "Kampus Merdeka",
     link: "https://drive.google.com/file/d/156VEyjilYOTEgWaS4xsRd32MjSfJdaA4/view?usp=drive_link",
+  },
+  {
+    title: "Web Programming - FYEP",
+
+    company: "Plan International",
+    link: "https://drive.google.com/file/d/1N5R_xUa9bLNCNtG-Jz7f3ihToRE_sHru/view?usp=sharing",
   },
 ];
 function Rightside() {

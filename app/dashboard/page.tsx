@@ -53,7 +53,7 @@ function Dashboard() {
           ) : (
             <>
               {portfolioData?.map((item) => (
-                <Link key={item.id} href={`/dashboard/${item.id}`}>
+                <Link key={item.id} href={`/dashboard/portfolio/${item.id}`}>
                   <motion.div whileHover={{ backgroundColor: "#282828" }} className="flex items-center gap-x-3 p-4 rounded-md cursor-pointer">
                     <Image src={item.thumbnail} alt="Portfolio" width={150} height={100} className="rounded-md w-[120px] h-[100px] object-cover xl:w-[175px] " />
                     <div className="flex flex-col">
